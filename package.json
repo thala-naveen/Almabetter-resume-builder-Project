@@ -1,5 +1,5 @@
 {
-  "homepage": "https://neet-1405.github.io/Almabetter-resume-builder-Project/",
+  "homepage": "https://thala-naveen.github.io/Almabetter-resume-builder-Project/",
   "name": "almabetterresume",
   "version": "0.1.0",
   "private": true,
@@ -48,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
   }
 }
