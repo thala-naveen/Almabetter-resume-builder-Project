@@ -13,7 +13,7 @@ const App = () => {
     <Router>
       <Routes>
         {/* Home Page Route */}
-        <Route exact path="/" element={<Home />} />
+        <Route exact path="/Almabetter-resume-builder-Project" element={<Home />} />
 
         {/* Details Filling Page */}
         <Route

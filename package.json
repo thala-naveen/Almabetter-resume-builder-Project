@@ -1,6 +1,6 @@
 {
-  "homepage": "https://thala-naveen.github.io/Almabetter-resume-builder-Project/",
-  "name": "almabetterresume",
+  "homepage": "https://thala-naveen.github.io/Almabetter-resume-builder-Project",
+  "name": "Almabetter-resume-builder-Project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
